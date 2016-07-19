@@ -28,4 +28,4 @@ web:
     - 80
 ```
 
-To make your data persistant, you have to mount `/var/www/app/public/avatars` and `/var/www/app/storage`.
+To make your data persistant, you have to mount `/var/www/medlib/public/avatars` and `/var/www/medlib/storage`.
